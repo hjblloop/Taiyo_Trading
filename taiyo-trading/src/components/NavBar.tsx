@@ -9,7 +9,7 @@ export const Navbar = () => {
       <NavLink to="/" className="text-3xl font-bold tracking-wide text-taiyo-gold font-playfair">
         Taiyo Cards
       </NavLink>
-      <div className="space-x-6 text-sm font-medium">
+      <div className="space-x-6 text-2xl font-medium">
         <NavLink to="/" className={linkStyle}>Marketplace</NavLink>
         <NavLink to="/dashboard" className={linkStyle}>Dashboard</NavLink>
         <NavLink to="/login" className={linkStyle}>Login</NavLink>
