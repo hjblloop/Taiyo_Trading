@@ -1,1 +1,11 @@
 @import 'tailwindcss';
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Cormorant+Garamond:wght@400;600;700&family=Great+Vibes&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@theme {
+  --font-didone: "Bodoni Moda", serif;
+  --font-playfair: "Playfair Display", serif;
+  --font-cormorant: "Cormorant Garamond", serif;
+  --font-script: "Great Vibes", cursive;
+  --color-taiyo-gold: #F0D084;
+  --color-taiyo-cream: #FDFBF7;
+  --color-warm-gold: #F3EFE6;
+}
